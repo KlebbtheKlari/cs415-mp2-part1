@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/level-design.umap",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/HUD/WBP_HP.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleCube_A/SM_PuzzleCube_A.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_HP.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/HUD/WBP_Restart.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_Collect.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/HUD/WBP_Score.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer_AIController.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BT_Pursuer.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BTTask_Patrol.uasset",
+				"C:/Users/caleb/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BB_Pursuer.uasset"
+			]
+		}
+	]
+}
